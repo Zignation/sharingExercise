@@ -1,0 +1,11 @@
+C:\Users\Søren\Desktop\RAWDATA2017E_Livecode4-master\LiveCode4\bin\Debug\netcoreapp2.0\LiveCode4.deps.json
+C:\Users\Søren\Desktop\RAWDATA2017E_Livecode4-master\LiveCode4\bin\Debug\netcoreapp2.0\LiveCode4.runtimeconfig.json
+C:\Users\Søren\Desktop\RAWDATA2017E_Livecode4-master\LiveCode4\bin\Debug\netcoreapp2.0\LiveCode4.runtimeconfig.dev.json
+C:\Users\Søren\Desktop\RAWDATA2017E_Livecode4-master\LiveCode4\bin\Debug\netcoreapp2.0\LiveCode4.dll
+C:\Users\Søren\Desktop\RAWDATA2017E_Livecode4-master\LiveCode4\bin\Debug\netcoreapp2.0\LiveCode4.pdb
+C:\Users\Søren\Desktop\RAWDATA2017E_Livecode4-master\LiveCode4\obj\Debug\netcoreapp2.0\LiveCode4.csprojResolveAssemblyReference.cache
+C:\Users\Søren\Desktop\RAWDATA2017E_Livecode4-master\LiveCode4\obj\Debug\netcoreapp2.0\LiveCode4.csproj.CoreCompileInputs.cache
+C:\Users\Søren\Desktop\RAWDATA2017E_Livecode4-master\LiveCode4\obj\Debug\netcoreapp2.0\LiveCode4.AssemblyInfoInputs.cache
+C:\Users\Søren\Desktop\RAWDATA2017E_Livecode4-master\LiveCode4\obj\Debug\netcoreapp2.0\LiveCode4.AssemblyInfo.cs
+C:\Users\Søren\Desktop\RAWDATA2017E_Livecode4-master\LiveCode4\obj\Debug\netcoreapp2.0\LiveCode4.dll
+C:\Users\Søren\Desktop\RAWDATA2017E_Livecode4-master\LiveCode4\obj\Debug\netcoreapp2.0\LiveCode4.pdb
